@@ -35,7 +35,6 @@
 <p><a href="https://www.buymeacoffee.com/bugwriter"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BugWriter" /></a> </p>
 
 
-&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
-](https://bugwriter.vercel.app)
+&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&pause=1000&random=false&width=435&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)](https://bugwriter.vercel.app)
 
 [![Logo](logo_1600x700.jpg)](https://pretext.vercel.app)
