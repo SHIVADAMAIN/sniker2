@@ -36,6 +36,6 @@
 
 
 &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=49&pause=1000&color=FF0000&background=000000&multiline=true&width=1034&height=110&lines=Wellcome+%3Cfriends%3E+%2Fn+%3Ccoderz%2F%3E+)
-](https://ai.bugswriter.ml)
+](https://bugwriter.vercel.app)
 
-[![Logo](logo_1600x700.jpg)](https://www.bugswriter.ml)
+[![Logo](logo_1600x700.jpg)](https://pretext.vercel.app)
